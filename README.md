@@ -178,4 +178,4 @@ Pastikan tidak ada file environment lokal seperti `.env` ikut ter-commit.
 
 ## License
 
-Project ini mengikuti license yang digunakan repository internal atau ketentuan pemilik project.
+Project ini mengikuti license yang digunakan repository internal
